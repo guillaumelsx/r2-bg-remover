@@ -3,7 +3,7 @@
     "@aws-sdk/client-s3": "^3.922.0",
     "dotenv": "^17.2.3"
   },
-  "name": "cloudflare-s3-mgmt",
+  "name": "r2-bg-remover",
   "version": "1.0.0",
   "description": "",
   "main": "r2-list.ts",

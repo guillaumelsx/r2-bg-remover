@@ -1,4 +1,4 @@
-# R2 Image Background Remover
+# r2-bg-remover
 
 Batch process images stored in Cloudflare R2 by removing their backgrounds using the [remove.bg](https://www.remove.bg/) API.
 
