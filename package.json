@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.922.0",
+    "dotenv": "^17.2.3"
+  },
+  "name": "cloudflare-s3-mgmt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "r2-list.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsx r2-list.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
